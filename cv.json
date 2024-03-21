@@ -1,0 +1,232 @@
+{
+  "basics": {
+    "name": "Álvaro Vera Becerra",
+    "label": "Desarrollador de Software",
+    "image": "/me.webp",
+    "email": "averbec580@gmail.com",
+    "phone": "+34 634 48 95 26",
+    "url": "https://google.com",
+    "summary": "Actualmente trabajando para Alten España como desarrollador de Software FullStack, Autodidacta y bueno en el trabajo en equipo, considero que aporto un soplo de aire fresco y nuevas ideas a los desarrollos incipientes. Actualmente me encuentro muy interesado en el stack de desarrollo de microsoft con .NET y tecnologias clientes componetizables como React o Angular",
+    "location": {
+      "address": "",
+      "postalCode": "11500",
+      "city": "El Puerto de Santa María, Cádiz",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Álvaro Vera Becerra",
+        "url": "https://www.linkedin.com/in/%C3%A1lvaro-vera-becerra-4414a1256/"
+      },
+      {
+        "network": "Codewars",
+        "username": "alvaroVB334",
+        "url": "https://www.codewars.com/users/alvaroVB334"
+      },
+      {
+        "network": "GitHub",
+        "username": "alvaroVB334",
+        "url": "https://github.com/alvaroVB334"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ALTEN España",
+      "position": "Desarrollador de Software",
+      "startDate": "2023-07",
+      "timeStamp":null,
+      "endDate": null,
+      "summary": "Actualmente trabajo en el desarrollo de nuevas funcionalidades y mantenimiento de aplicaciones de la administración pública y varios ministerios con C# .NET y ASP.",
+      "summaryTwo":"Así como la revisión de aspectos como pruebas funcionales, accesibilidad y el estudio e integración de tecnologías cliente componetizables como React, manejo de necesidades directas mediante el trato con cliente y resolución de incidencias",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "ALTEN España",
+      "position": "Estudiante en prácticas",
+      "url": "https://twitch.tv/midudev",
+      "startDate": null,
+      "timeStamp":"Marzo - Junio 2023",
+      "endDate": null,
+      "summary": "Trabaje y aprendí en proyectos desarrollados en .NET Core y React sobre propuestas de soluciones digitales a PYMES",
+      "summaryTwo":"",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "IES Mar de Cádiz",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Técnico Superior en desarrollo de aplicaciones Web",
+    "studyType": "Bachelor",
+    "startDate": "2021-08",
+    "endDate": "2023-06"
+  }],
+  "certificates": [
+  {
+    "name": "Curso Completo programador .net",
+    "date": "2023",
+    "issuer": "Udemy",
+    "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-1d1e7096-f9f7-4caa-a351-ea2ed4652a03.pdf",
+    "id":"UC-1d1e7096-f9f7-4caa-a351-ea2ed4652a03"
+  },
+  {
+    "name": "Spring Framework 6 & Spring Boot 3 desde cero a experto",
+    "date": "En progreso",
+    "issuer": "Udemy"
+  }
+],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": ".NET",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium-Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Cantina Cantinflas Web",
+      "isActive": true,
+      "description": "Página web de presentación de restaurante mexicano local",
+      "highlights": [
+        "Google Search Console",
+        "Custom CSS",
+        "SEO",
+        "Planifación con cliente"
+      ],
+      "url": "https://cantinacantinflas.es/"
+    },
+    {
+      "name": "Hinchables Acosta",
+      "isActive": true,
+      "description": "Pagina web de venta de articulos de fiesta, para un negocio local",
+      "highlights": [
+        "Diseño de proyecto",
+        "React",
+        "Display automatizado",
+        "Google Business"
+      ],
+      "url": "https://www.hinchablesacosta.com/"
+    },
+    {
+      "name": "Svelt",
+      "isActive": true,
+      "description": "Proyecto final del grado de desarrollo, Aplicación web de alquiler y gestión de aparcamientos, con manejo de mapas",
+      "highlights": [
+        "React",
+        "API",
+        "AWS",
+        "PHP"
+      ],
+      "url": "https://github.com/alvaroVB334/Svelt_API",
+      "github":"https://github.com/alvaroVB334/Svelt_API"
+    },
+    {
+      "name": "Project Odyssey",
+      "isActive": false,
+      "description": "Proyecto de API con arquitectura en microservicios e implementación de microfrontends",
+      "highlights": [
+        "En desarrollo"
+      ],
+      "url": "https://codi.link"
+    }
+  ]
+}

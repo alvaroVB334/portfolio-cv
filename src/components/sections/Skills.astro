@@ -1,0 +1,86 @@
+---
+import Section from "../Section.astro"
+import HTML from "@/icons/html.astro"
+import CSS from "@/icons/css.astro"
+import JavaScript from "@/icons/javascript.astro"
+import TypeScript from "@/icons/type.astro"
+import React from "@/icons/react.astro"
+import Node from "@/icons/node.astro"
+import SQL from "@/icons/sql.astro"
+import Git from "@/icons/git.astro"
+import GitHub from "@/icons/GitHub.astro"
+import Tailwind from "@/icons/tailwind.astro"
+import { skills } from "@cv"
+import Swift from "@/icons/swift.astro"
+import SwiftUI from "@/icons/swiftui.astro"
+import Kotlin from "@/icons/kotlin.astro"
+import Flutter from "@/icons/flutter.astro"
+import csharp from "@/icons/csharp.astro"
+import net from "@/icons/net.astro"
+import jQuery from "@/icons/jQuery.astro"
+import Azure from "@/icons/azure.astro"
+
+const SKILLS_ICONS: Record<string, any> = {
+  HTML,
+  CSS,
+  JavaScript,
+  TypeScript,
+  React,
+  Node,
+  SQL,
+  Git,
+  GitHub,
+  Tailwind,
+  Swift,
+  SwiftUI,
+  Kotlin,
+  Flutter,
+  csharp,
+  net,
+  jQuery,
+  Azure
+}
+---
+
+<Section title="Habilidades">
+  <ul>
+    {
+      skills.map(({ name }) => {
+
+        let iconName;
+        switch(name){
+          case "C#": iconName="csharp"; break;
+          case ".NET": iconName="net"; break;
+          default:iconName=name;
+        }
+        const Icon = SKILLS_ICONS[iconName]
+
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name}</span>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+</style>
