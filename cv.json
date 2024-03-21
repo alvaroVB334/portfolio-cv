@@ -6,7 +6,7 @@
     "email": "averbec580@gmail.com",
     "phone": "+34 634 48 95 26",
     "url": "https://google.com",
-    "summary": "Actualmente trabajando para Alten España como desarrollador de Software FullStack, Autodidacta y bueno en el trabajo en equipo, considero que aporto un soplo de aire fresco y nuevas ideas a los desarrollos incipientes. Actualmente me encuentro muy interesado en el stack de desarrollo de microsoft con .NET y tecnologias clientes componetizables como React o Angular",
+    "summary": "Actualmente trabajando para Alten España como desarrollador de Software FullStack, Soy alguien muy autodidacta y bueno en el trabajo en equipo, considero que aporto un soplo de aire fresco y nuevas ideas a los desarrollos incipientes. Actualmente me encuentro muy interesado en el stack de desarrollo de microsoft con .NET y tecnologías clientes componetizables cómo React o Angular",
     "location": {
       "address": "",
       "postalCode": "11500",
@@ -52,7 +52,7 @@
       "startDate": null,
       "timeStamp":"Marzo - Junio 2023",
       "endDate": null,
-      "summary": "Trabaje y aprendí en proyectos desarrollados en .NET Core y React sobre propuestas de soluciones digitales a PYMES",
+      "summary": "Trabajé y aprendí en proyectos desarrollados en .NET Core y React sobre propuestas de soluciones digitales a PYMES",
       "summaryTwo":"",
       "highlights": [
         "Started the company"
@@ -209,7 +209,7 @@
     {
       "name": "Svelt",
       "isActive": true,
-      "description": "Proyecto final del grado de desarrollo, Aplicación web de alquiler y gestión de aparcamientos, con manejo de mapas",
+      "description": "Proyecto final de grado, Aplicación web de alquiler y gestión de aparcamientos, con manejo de mapas",
       "highlights": [
         "React",
         "API",
