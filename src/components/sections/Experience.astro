@@ -12,7 +12,7 @@ import { work } from "@cv"
 
           var years
           if(!timeStamp){
-            const startYear = new Date(startDate).getFullYear()
+            const startYear = startDate !=  null ? new Date(startDate).getFullYear() : "Actual"
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
           years = `${startYear} - ${endYear}`

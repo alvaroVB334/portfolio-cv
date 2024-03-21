@@ -41,10 +41,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 <div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/minimalist-portfolio-json)
-![GitHub issues](https://img.shields.io/github/issues/midudev/minimalist-portfolio-json)
-![GitHub forks](https://img.shields.io/github/forks/midudev/minimalist-portfolio-json)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
 
 </div>
 
@@ -59,9 +55,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
-
-
 - Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
 
 ```bash
@@ -70,8 +63,7 @@ corepack enable
 corepack prepare pnpm@latest --activate
 
 # Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
-```
+pnpm create astro@latest -- --template alvaroVB334/portfolio-cv
 
 ### 2. Añade tu contenido:
 Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
@@ -93,12 +85,6 @@ pnpm dev
 | ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
 | ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
 | ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
-
-
-
-## 🔑 Licencia
-
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
 
 
 
